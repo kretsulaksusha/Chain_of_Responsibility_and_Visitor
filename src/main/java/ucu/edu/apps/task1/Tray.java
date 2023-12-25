@@ -1,5 +1,8 @@
 package ucu.edu.apps.task1;
 
+import lombok.Getter;
+
+@Getter
 public class Tray { // one chain
     private Tray next;
     public int denomination;
