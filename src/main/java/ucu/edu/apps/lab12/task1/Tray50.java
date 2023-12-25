@@ -1,4 +1,4 @@
-package ucu.edu.apps.task1;
+package ucu.edu.apps.lab12.task1;
 
 public class Tray50 extends Tray {
 

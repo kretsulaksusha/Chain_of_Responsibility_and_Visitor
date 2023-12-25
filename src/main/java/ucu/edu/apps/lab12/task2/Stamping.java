@@ -1,4 +1,4 @@
-package ucu.edu.apps.task2;
+package ucu.edu.apps.lab12.task2;
 
 public class Stamping {
     public static <T> void visitTask(Signature<T> task, Group<T> group) {

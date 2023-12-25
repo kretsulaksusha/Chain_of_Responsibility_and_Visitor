@@ -1,4 +1,4 @@
-package ucu.edu.apps.task2;
+package ucu.edu.apps.lab12.task2;
 
 import java.util.HashMap;
 import java.util.Map;

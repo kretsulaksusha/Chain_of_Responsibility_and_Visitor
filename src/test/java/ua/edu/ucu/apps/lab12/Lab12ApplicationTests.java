@@ -5,9 +5,9 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import org.junit.jupiter.api.Test;
 
-import ucu.edu.apps.task1.ATM;
-import ucu.edu.apps.task1.Tray1000;
-import ucu.edu.apps.task1.Tray500;
+import ucu.edu.apps.lab12.task1.ATM;
+import ucu.edu.apps.lab12.task1.Tray1000;
+import ucu.edu.apps.lab12.task1.Tray500;
 
 class Lab12ApplicationTests {
 
