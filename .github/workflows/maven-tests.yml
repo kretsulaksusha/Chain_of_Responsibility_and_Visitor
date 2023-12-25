@@ -25,5 +25,5 @@ jobs:
     - name: Build with Maven
       run: mvn -B package --file pom.xml
 
-    - name: Decorator Tests
-      run: mvn -Dtest=Lab8ApplicationTests test
+    - name: ATM Tests
+      run: mvn -Dtest=Lab12ApplicationTests test
