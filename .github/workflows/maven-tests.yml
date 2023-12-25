@@ -26,4 +26,4 @@ jobs:
       run: mvn -B package --file pom.xml
 
     - name: ATM Tests
-      run: mvn -Dtest=Lab12ApplicationTests test
+      run: mvn test

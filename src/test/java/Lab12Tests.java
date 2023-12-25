@@ -9,7 +9,7 @@ import ucu.edu.apps.lab12.task1.ATM;
 import ucu.edu.apps.lab12.task1.Tray1000;
 import ucu.edu.apps.lab12.task1.Tray500;
 
-class Lab12ApplicationTests {
+class Lab12Tests {
 
 	@Test
 	void testATM() {
